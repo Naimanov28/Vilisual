@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 07ea0a2e0ed883f4259e1a75742ddf68592c3c8b awym.dev <awym.dev01@gmail.com> 1709404021 +0300	commit (initial): start project
+07ea0a2e0ed883f4259e1a75742ddf68592c3c8b 07ea0a2e0ed883f4259e1a75742ddf68592c3c8b awym.dev <awym.dev01@gmail.com> 1709404026 +0300	checkout: moving from main to dev
+07ea0a2e0ed883f4259e1a75742ddf68592c3c8b 07ea0a2e0ed883f4259e1a75742ddf68592c3c8b awym.dev <awym.dev01@gmail.com> 1709404036 +0300	checkout: moving from dev to main
+07ea0a2e0ed883f4259e1a75742ddf68592c3c8b 0000000000000000000000000000000000000000 awym.dev <awym.dev01@gmail.com> 1709404073 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07ea0a2e0ed883f4259e1a75742ddf68592c3c8b 07ea0a2e0ed883f4259e1a75742ddf68592c3c8b awym.dev <awym.dev01@gmail.com> 1709404073 +0300	Branch: renamed refs/heads/main to refs/heads/main
+07ea0a2e0ed883f4259e1a75742ddf68592c3c8b 2548d1b29b02a0a0ec0e6cca55d39e440ea1fd2f awym.dev <awym.dev01@gmail.com> 1709404102 +0300	commit: push in github
+2548d1b29b02a0a0ec0e6cca55d39e440ea1fd2f 0000000000000000000000000000000000000000 awym.dev <awym.dev01@gmail.com> 1709404105 +0300	Branch: renamed refs/heads/main to refs/heads/main
+2548d1b29b02a0a0ec0e6cca55d39e440ea1fd2f 2548d1b29b02a0a0ec0e6cca55d39e440ea1fd2f awym.dev <awym.dev01@gmail.com> 1709404105 +0300	Branch: renamed refs/heads/main to refs/heads/main
+2548d1b29b02a0a0ec0e6cca55d39e440ea1fd2f fd3958a9cedcd2bd3b4547b8a9afd3069fdff757 awym.dev <awym.dev01@gmail.com> 1709409122 +0300	commit: create header
+fd3958a9cedcd2bd3b4547b8a9afd3069fdff757 d937cf25682c4906f34f08a71acbc03ab4b5aa0e awym.dev <awym.dev01@gmail.com> 1709493750 +0300	commit: create animade
+d937cf25682c4906f34f08a71acbc03ab4b5aa0e 4a3edd84af916deb38282a4189401f6274fa7bbb awym.dev <awym.dev01@gmail.com> 1709567402 +0300	commit: end header push in dev
+4a3edd84af916deb38282a4189401f6274fa7bbb bf538f081091e9c922ae0df6a481d47ca4206fa6 awym.dev <awym.dev01@gmail.com> 1709567991 +0300	commit: end header push in dev
+bf538f081091e9c922ae0df6a481d47ca4206fa6 fb305f6634a7fc1f336d3638ace1f41e3ccd4bf4 awym.dev <awym.dev01@gmail.com> 1709568248 +0300	commit: start component services
+fb305f6634a7fc1f336d3638ace1f41e3ccd4bf4 7b69f637334f95d065b5828098e91893fc94ae96 awym.dev <awym.dev01@gmail.com> 1709569539 +0300	commit: create services
+7b69f637334f95d065b5828098e91893fc94ae96 fb305f6634a7fc1f336d3638ace1f41e3ccd4bf4 awym.dev <awym.dev01@gmail.com> 1709574101 +0300	reset: moving to fb305f6
+fb305f6634a7fc1f336d3638ace1f41e3ccd4bf4 fb305f6634a7fc1f336d3638ace1f41e3ccd4bf4 awym.dev <awym.dev01@gmail.com> 1709576237 +0300	reset: moving to fb305f6
+fb305f6634a7fc1f336d3638ace1f41e3ccd4bf4 c5a09ea1dc60a4e1659404915c91ca3e8009b09d awym.dev <awym.dev01@gmail.com> 1709577754 +0300	commit: create modal nav
+c5a09ea1dc60a4e1659404915c91ca3e8009b09d 3070dbfedabc1bf03985fc278a8d0550dd019bf4 awym.dev <awym.dev01@gmail.com> 1709577766 +0300	pull origin main: Merge made by the 'recursive' strategy.
+3070dbfedabc1bf03985fc278a8d0550dd019bf4 39c9c703dfdf53f26decc7281a2223d070c85f20 awym.dev <awym.dev01@gmail.com> 1710437719 +0300	commit: end project
+39c9c703dfdf53f26decc7281a2223d070c85f20 40e9269d45f0fe1e108db9eddad4178089ca8e7b awym.dev <awym.dev01@gmail.com> 1710892896 +0300	commit: end project
